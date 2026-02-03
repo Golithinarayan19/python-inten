@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Ivan",
+                "last": "Vidi\u0107"
+            },
+            "location": {
+                "street": {
+                    "number": 5084,
+                    "name": "Ljubi\u0161e Gli\u0161i\u0107a "
+                },
+                "city": "Mionica",
+                "state": "Kosovo",
+                "country": "Serbia",
+                "postcode": 16424,
+                "coordinates": {
+                    "latitude": "60.9762",
+                    "longitude": "-112.6744"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "ivan.vidic@example.com",
+            "login": {
+                "uuid": "5eb87821-68bd-457e-ae49-47ce3aea9ba2",
+                "username": "crazymouse369",
+                "password": "twenty",
+                "salt": "zGS1vE3x",
+                "md5": "63eaae7ba311406a17010c0584d75122",
+                "sha1": "582017adfe40b0626e6caad0afc5a2a73c22c340",
+                "sha256": "fd3c73836d7b11efe92485b88ab10753e4c31c39b04ea0efc10bbeed3722a545"
+            },
+            "dob": {
+                "date": "1970-11-01T14:40:03.796Z",
+                "age": 55
+            },
+            "registered": {
+                "date": "2017-07-23T07:10:30.289Z",
+                "age": 8
+            },
+            "phone": "016-9657-615",
+            "cell": "063-4007-016",
+            "id": {
+                "name": "SID",
+                "value": "366528660"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/89.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+            },
+            "nat": "RS"
+        }
+    ],
+    "info": {
+        "seed": "7aeffa574f2b6730",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
